@@ -38,11 +38,11 @@ decisions without needing to visit the property in person.
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
 ## Contact
-Your Name - (CoderFitsPH)
+(CoderFitsPH)
 
 
